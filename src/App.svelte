@@ -3,17 +3,6 @@
   import { onMount } from "svelte";
   import Carousel from './Carousel.svelte';
 
- // import { initCarousel } from './carrusel.js';
-   // import './carrusel.css';
-
-    //onMount(() => {
-      //  initCarousel();
-    //});
-
-
-
-
-    
 
   let count;
   let index = 0; // Inicializamos index
