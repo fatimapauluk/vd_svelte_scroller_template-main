@@ -607,11 +607,7 @@ header {
     }
   }
 
-  /* Estilos para el scroller */
-  .foreground_container {
-    pointer-events: none;
-  
-  }
+ 
   .step_foreground {
   display: flex;
   flex-direction: column;
